@@ -105,12 +105,12 @@ text-decoration: underline;
 
 border: 5px solid #4CAF50;
 
-border-radius: 10px;
+border-radius: 5px;
 
 }
   main a[href^="mailto:"] {
 
-color: #ff5722;
+color:#faf207;
 
 font-weight: bold;
 
